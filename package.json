@@ -1,0 +1,18 @@
+{
+  "name": "jwt-based-auth",
+  "version": "1.0.0",
+  "description": "JWT authentication system with refresh tokens and httpOnly cookies build using Node.js, Express, and SQLite.",
+  "main": "server.js",
+  "author": "Shuja Ahmad Tak",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3"
+  },
+  "scripts": {
+    "dev": "node server.js"
+  }
+}

@@ -1,0 +1,186 @@
+const users = [
+  {
+    id: 1,
+    name: "Alice Johnson",
+    email: "alice.johnson@example.com",
+    password: "pass123",
+  },
+  {
+    id: 2,
+    name: "Bob Smith",
+    email: "bob.smith@example.com",
+    password: "pass123",
+  },
+  {
+    id: 3,
+    name: "Charlie Brown",
+    email: "charlie.brown@example.com",
+    password: "pass123",
+  },
+  {
+    id: 4,
+    name: "David Wilson",
+    email: "david.wilson@example.com",
+    password: "pass123",
+  },
+  {
+    id: 5,
+    name: "Emma Davis",
+    email: "emma.davis@example.com",
+    password: "pass123",
+  },
+  {
+    id: 6,
+    name: "Frank Miller",
+    email: "frank.miller@example.com",
+    password: "pass123",
+  },
+  {
+    id: 7,
+    name: "Grace Taylor",
+    email: "grace.taylor@example.com",
+    password: "pass123",
+  },
+  {
+    id: 8,
+    name: "Henry Anderson",
+    email: "henry.anderson@example.com",
+    password: "pass123",
+  },
+  {
+    id: 9,
+    name: "Isabella Thomas",
+    email: "isabella.thomas@example.com",
+    password: "pass123",
+  },
+  {
+    id: 10,
+    name: "Jack Moore",
+    email: "jack.moore@example.com",
+    password: "pass123",
+  },
+
+  {
+    id: 11,
+    name: "Karen Martin",
+    email: "karen.martin@example.com",
+    password: "pass123",
+  },
+  {
+    id: 12,
+    name: "Liam Jackson",
+    email: "liam.jackson@example.com",
+    password: "pass123",
+  },
+  {
+    id: 13,
+    name: "Mia White",
+    email: "mia.white@example.com",
+    password: "pass123",
+  },
+  {
+    id: 14,
+    name: "Noah Harris",
+    email: "noah.harris@example.com",
+    password: "pass123",
+  },
+  {
+    id: 15,
+    name: "Olivia Clark",
+    email: "olivia.clark@example.com",
+    password: "pass123",
+  },
+  {
+    id: 16,
+    name: "Peter Lewis",
+    email: "peter.lewis@example.com",
+    password: "pass123",
+  },
+  {
+    id: 17,
+    name: "Quinn Walker",
+    email: "quinn.walker@example.com",
+    password: "pass123",
+  },
+  {
+    id: 18,
+    name: "Ryan Hall",
+    email: "ryan.hall@example.com",
+    password: "pass123",
+  },
+  {
+    id: 19,
+    name: "Sophia Allen",
+    email: "sophia.allen@example.com",
+    password: "pass123",
+  },
+  {
+    id: 20,
+    name: "Thomas Young",
+    email: "thomas.young@example.com",
+    password: "pass123",
+  },
+
+  {
+    id: 21,
+    name: "Uma King",
+    email: "uma.king@example.com",
+    password: "pass123",
+  },
+  {
+    id: 22,
+    name: "Victor Wright",
+    email: "victor.wright@example.com",
+    password: "pass123",
+  },
+  {
+    id: 23,
+    name: "Wendy Scott",
+    email: "wendy.scott@example.com",
+    password: "pass123",
+  },
+  {
+    id: 24,
+    name: "Xavier Green",
+    email: "xavier.green@example.com",
+    password: "pass123",
+  },
+  {
+    id: 25,
+    name: "Yara Adams",
+    email: "yara.adams@example.com",
+    password: "pass123",
+  },
+  {
+    id: 26,
+    name: "Zachary Baker",
+    email: "zachary.baker@example.com",
+    password: "pass123",
+  },
+  {
+    id: 27,
+    name: "Aaron Nelson",
+    email: "aaron.nelson@example.com",
+    password: "pass123",
+  },
+  {
+    id: 28,
+    name: "Bella Carter",
+    email: "bella.carter@example.com",
+    password: "pass123",
+  },
+  {
+    id: 29,
+    name: "Caleb Mitchell",
+    email: "caleb.mitchell@example.com",
+    password: "pass123",
+  },
+  {
+    id: 30,
+    name: "Diana Perez",
+    email: "diana.perez@example.com",
+    password: "pass123",
+  },
+];
+
+export default users;
